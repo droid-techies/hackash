@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002964283837",
+    "firebase_url": "https://ruzaki-ice-store.firebaseio.com",
+    "project_id": "ruzaki-ice-store",
+    "storage_bucket": "ruzaki-ice-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002964283837:android:cac4362c5cb29bce",
+        "android_client_info": {
+          "package_name": "com.ruzaki.icestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002964283837-u7po06730i61k59c1b65inlqpg9kqk7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruzaki.icestore",
+            "certificate_hash": "74fb65364dcf5fee1df1237cf4e2f969653cd73c"
+          }
+        },
+        {
+          "client_id": "1002964283837-rarr836t3si00s2tbvb0ncfipl8hvh8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nxFK3tyP5dmUY2LeKa-JZvKT2LyKY0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002964283837-rarr836t3si00s2tbvb0ncfipl8hvh8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
